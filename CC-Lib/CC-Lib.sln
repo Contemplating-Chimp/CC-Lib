@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC-Lib", "CC-Lib.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC-Lib.Math", "..\CC-Lib.Math\CC-Lib.Math.csproj", "{C9BF7CD3-56E9-4C87-8154-67E2204CD198}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC-Lib.UnitTests", "..\CC-Lib.UnitTests\CC-Lib.UnitTests.csproj", "{651A070A-0A33-45BA-BA40-0E8C84F6AF17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C9BF7CD3-56E9-4C87-8154-67E2204CD198}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9BF7CD3-56E9-4C87-8154-67E2204CD198}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9BF7CD3-56E9-4C87-8154-67E2204CD198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651A070A-0A33-45BA-BA40-0E8C84F6AF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651A070A-0A33-45BA-BA40-0E8C84F6AF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651A070A-0A33-45BA-BA40-0E8C84F6AF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651A070A-0A33-45BA-BA40-0E8C84F6AF17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
